@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 """One Emoji, One Dream Vacation.
 
-Writes exactly one emoji to /output/entry.txt: a desert island,
-the postcard of the dream vacation itself - palm, sand, turquoise
-water, nowhere else to be.
+Writes exactly one emoji to /output/entry.txt: a beach with umbrella,
+the whole dream vacation in one glyph - sun, sand, shade, and nowhere
+else to be.
 """
 
 import os
 
-EMOJI = "\U0001f3dd"  # desert island
+EMOJI = "\U0001f3d6"  # beach with umbrella
 
 OUTPUT_PATH = "/output/entry.txt"
 
